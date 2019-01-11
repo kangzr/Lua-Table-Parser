@@ -4,6 +4,7 @@ from LuaTableParser import *
 def test1():
     print '.................... Test1 load and dump :'
 
+    print 'test git -----'
     p = LuaTableParser()
 
     s0 = '{}'
